@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/613163671870242838.svg?color=%237289da&label=discord)](https://discord.gg/geysermc)
 [![Crowdin](https://badges.crowdin.net/geyser/localized.svg)](https://translate.geysermc.org/)
 
-Geyser is a bridge between Minecraft: Bedrock Edition and Minecraft: Java Edition, closing the gap from those wanting to play true cross-platform.
+Geyser is a bridge between Minecraft: Bedrock Edition and Minecraft: Java Edition, closing the gap for those wanting to play true cross-platform.
 
 Geyser is an open collaboration project by [CubeCraft Games](https://cubecraft.net).
 
@@ -12,7 +12,7 @@ Geyser is an open collaboration project by [CubeCraft Games](https://cubecraft.n
 Geyser is a proxy, bridging the gap between Minecraft: Bedrock Edition and Minecraft: Java Edition servers.
 The ultimate goal of this project is to allow Minecraft: Bedrock Edition users to join Minecraft: Java Edition servers as seamlessly as possible. However, due to the nature of Geyser translating packets over the network of two different games, *do not expect everything to work perfectly!*
 
-Special thanks to the DragonProxy project for being a trailblazer in protocol translation and for all the team members who have joined us here!
+Special thanks to the DragonProxy project for being a trailblazer in protocol translation and to all the team members who have joined us here!
 
 ### Currently supporting Minecraft Bedrock 1.20.0 - 1.20.32 and Minecraft Java 1.20.2
 
@@ -30,7 +30,7 @@ Take a look [here](https://wiki.geysermc.org/geyser/setup/) for how to set up Ge
 - Test Server: `test.geysermc.org` port `25565` for Java and `19132` for Bedrock
 
 ## What's Left to be Added/Fixed
-- Near-perfect movement (to the point where anticheat on large servers is unlikely to ban you)
+- Near-perfect movement (to the point where anti cheat on large servers is unlikely to ban you)
 - Some Entity Flags
 - Structure block UI
 
